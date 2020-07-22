@@ -1,4 +1,4 @@
-package Irati.A1;
+package Exercise5;
 
 public class Main {
 }
