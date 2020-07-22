@@ -1,0 +1,25 @@
+Banana
+    Price: 0.46
+    Quantity: 9
+    Description: Bananas are good!
+
+Watermelon
+    Price: 2.56
+    Quantity: 2
+    Description: Watermelons are good!
+
+Melon
+    Price: 1.99
+    Quantity: 1
+    Description: Melons are good!
+
+Cherry
+    Price: 0.11
+    Quantity: 50
+    Description: Cherries are good!
+
+Mango
+    Price: 3.32
+    Quantity: 3
+    Description: Mangos are good!
+
