@@ -41,12 +41,5 @@ public class Main {
         shopStock.put(1, new Product("Ice Tea", 2.50, 10, "Has some lemon in it"));
 
         printReport(shopStock);
-
-        // Exercise 6
-        File file = new File(System.getProperty("user.dir") + File.separator + "report.txt");
-
-        // Read text file as string
-
-
     }
 }
